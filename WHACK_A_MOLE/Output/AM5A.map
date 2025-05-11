@@ -1,0 +1,674 @@
+Map_File
+
+
+Memory Segment Table
+Name     Type  BeginAddr  Size     Location
+---------------------------------------------
+CODEROM  CODE  0          65536    CODE
+DATAROM  DATA  0          917504   DATA
+
+
+Memory Usage Table
+Name  SegmentType  DataType     Address  Size   File                                                                                          Used
+----------------------------------------------------------------------------------------------------------------------------------------------------
+      ABS          PROGSEGMENT  1024     4400   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\AM5A.o         True
+      ABS          PROGSEGMENT  8192     1143   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\AM5A.o         True
+      ABS          PROGSEGMENT  512      512    C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\AM5A.o         True
+      ABS          PROGSEGMENT  0        2      C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\AM5A.o         True
+      ABS          PROGSEGMENT  16       2      C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\AM5A.o         True
+      ABS          PROGSEGMENT  32       35     C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\AM5A_config.o  True
+V28   REL          DATASEGMENT  9335     21841  C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V34   REL          DATASEGMENT  31176    10663  C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V0    REL          DATASEGMENT  41839    7169   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V29   REL          DATASEGMENT  49008    6729   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V36   REL          DATASEGMENT  55737    6377   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V40   REL          DATASEGMENT  62114    5394   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V10   REL          DATASEGMENT  67508    5327   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V57   REL          DATASEGMENT  72835    5308   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V42   REL          DATASEGMENT  78143    5144   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V49   REL          DATASEGMENT  83287    5114   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V51   REL          DATASEGMENT  88401    5111   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V38   REL          DATASEGMENT  93512    5001   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V50   REL          DATASEGMENT  98513    4972   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V52   REL          DATASEGMENT  103485   4876   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V39   REL          DATASEGMENT  108361   4814   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V41   REL          DATASEGMENT  113175   4811   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V9    REL          DATASEGMENT  117986   4779   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V2    REL          DATASEGMENT  122765   4576   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V47   REL          DATASEGMENT  127341   4515   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V43   REL          DATASEGMENT  131856   4386   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V45   REL          DATASEGMENT  136242   4287   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V48   REL          DATASEGMENT  140529   4237   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V4    REL          DATASEGMENT  144766   4109   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V44   REL          DATASEGMENT  148875   3822   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V46   REL          DATASEGMENT  152697   3712   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V5    REL          DATASEGMENT  156409   3576   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V18   REL          DATASEGMENT  159985   3492   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V37   REL          DATASEGMENT  163477   3164   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V21   REL          DATASEGMENT  166641   3153   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V22   REL          DATASEGMENT  169794   3074   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V16   REL          DATASEGMENT  172868   3054   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V19   REL          DATASEGMENT  175922   2931   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V15   REL          DATASEGMENT  178853   2885   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V24   REL          DATASEGMENT  181738   2834   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V35   REL          DATASEGMENT  184572   2829   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V53   REL          DATASEGMENT  187401   2824   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V55   REL          DATASEGMENT  190225   2738   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V17   REL          DATASEGMENT  192963   2688   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V12   REL          DATASEGMENT  195651   2638   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V31   REL          DATASEGMENT  198289   2587   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V27   REL          DATASEGMENT  200876   2553   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V14   REL          DATASEGMENT  203429   2510   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V30   REL          DATASEGMENT  205939   2483   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V54   REL          DATASEGMENT  208422   2482   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V13   REL          DATASEGMENT  210904   2404   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V20   REL          DATASEGMENT  213308   2354   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V3    REL          DATASEGMENT  215662   2260   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V26   REL          DATASEGMENT  217922   2151   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V23   REL          DATASEGMENT  220073   2090   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V25   REL          DATASEGMENT  222163   2019   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V33   REL          DATASEGMENT  224182   2009   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V32   REL          DATASEGMENT  226191   1819   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V1    REL          DATASEGMENT  228010   1655   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V8    REL          DATASEGMENT  229665   1461   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V6    REL          DATASEGMENT  231126   1313   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V56   REL          DATASEGMENT  232439   1143   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V7    REL          DATASEGMENT  233582   1124   C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+V11   REL          DATASEGMENT  234706   807    C:\Users\EP-ENG0\Desktop\ALL\ゴ公\ゴ公_穝\WHACK_A_MOLE_V5\WHACK_A_MOLE\Obj\VoiceLabel.o   True
+
+
+Symbol Table
+Name                                           Type         Address   SegmentName      SegmentAddr
+----------------------------------------------------------------------------------------------------
+@@@GetScale_and_VData                          LABEL        0x00045A                   0x000400
+@@@GetVData                                    LABEL        0x000474                   0x000400
+@@@GetVData_P1                                 LABEL        0x000484                   0x000400
+@@@GetVData_P2                                 LABEL        0x00048C                   0x000400
+@@@GetVData_P3                                 LABEL        0x000497                   0x000400
+@@@GetVData_P4                                 LABEL        0x00049F                   0x000400
+@@@GetVData_P5                                 LABEL        0x0004AA                   0x000400
+@@@Initial_Isnt_PCM_mode_1_1                   LABEL        0x000FA3                   0x000400
+@@@Isnt_PCM_mode                               LABEL        0x000440                   0x000400
+@@@Negative_VData                              LABEL        0x0004D5                   0x000400
+@@@Negative_VData_1                            LABEL        0x0004DC                   0x000400
+@@@PCM_Int_event_back                          LABEL        0x00043E                   0x000400
+@@@PCM_end_code                                LABEL        0x00043B                   0x000400
+@@@PCM_isnt_end_code                           LABEL        0x00043E                   0x000400
+@@@Playv_int_out                               LABEL        0x0004F3                   0x000400
+@@@Positive_VData                              LABEL        0x0004B7                   0x000400
+@@@Positive_VData_1                            LABEL        0x0004BB                   0x000400
+@@@ROM_decode_int_back                         LABEL        0x0004F3                   0x000400
+@@@Ramp_to_0x200_INC_DEC_1                     LABEL        0x000F6C                   0x000400
+@@@Set_PlayV_Flag_1_1                          LABEL        0x000FAC                   0x000400
+@@@Stop_Voice_Ret_1                            LABEL        0x000F86                   0x000400
+@@@VData_Common                                LABEL        0x0004F1                   0x000400
+@@@Zero_VData                                  LABEL        0x0004CC                   0x000400
+@@@ramp_to_0x200_DEC_1                         LABEL        0x000F70                   0x000400
+@@@ramp_to_0x200_INC_1                         LABEL        0x000F81                   0x000400
+@@@ramp_to_0x200_delay_1                       LABEL        0x000F57                   0x000400
+@@@ramp_to_0x200_s_back_1                      LABEL        0x000F86                   0x000400
+@@@voice_end_code                              LABEL        0x0004D0                   0x000400
+@INT                                           LABEL        0x000400                   0x000400
+@MAIN                                          LABEL        0x000501                   0x000400
+A0                                             LABEL        0x000D1B                   0x000400
+A1                                             LABEL        0x000D21                   0x000400
+A2                                             LABEL        0x000D27                   0x000400
+A3                                             LABEL        0x000D3A                   0x000400
+A4                                             LABEL        0x000D50                   0x000400
+A5                                             LABEL        0x000D66                   0x000400
+A6                                             LABEL        0x000D7A                   0x000400
+AA0                                            LABEL        0x0012D3                   0x000400
+AA1                                            LABEL        0x0012D8                   0x000400
+ADPCM_FUNCTION                                 LABEL        0x000EEA                   0x000400
+ADPCM_FUNCTION_END                             LABEL        0x000FAF                   0x000400
+ALL_LED_FLASHING                               LABEL        0x001333                   0x000400
+ALL_LED_FLASHING_END                           LABEL        0x00134C                   0x000400
+APPEAR_FINISH                                  LABEL        0x000D0B                   0x000400
+APPEAR_OVER                                    LABEL        0x000881                   0x000400
+APPEAR_OVER_1                                  LABEL        0x00088E                   0x000400
+APPEAR_OVER_2                                  LABEL        0x00089B                   0x000400
+APPEAR_TIME_CHECK                              LABEL        0x00086D                   0x000400
+APPEAR_TIME_CHECK_END                          LABEL        0x0008A0                   0x000400
+APPEAR_TIME_COUNT                              LABEL        0x000860                   0x000400
+APPEAR_TIME_COUNT_END                          LABEL        0x00086C                   0x000400
+AWESOME_ADDRESS                                LABEL        0x000CC0                   0x000400
+AWESOME_ADDRESS_END                            LABEL        0x000CCA                   0x000400
+AWESOME_SOUND                                  LABEL        0x000DEF                   0x000400
+B0                                             LABEL        0x00061A                   0x000400
+B1                                             LABEL        0x000DA3                   0x000400
+B2                                             LABEL        0x000DA9                   0x000400
+B3                                             LABEL        0x000DBC                   0x000400
+B4                                             LABEL        0x000DD2                   0x000400
+BACKWORD                                       LABEL        0x000A59                   0x000400
+BAD                                            LABEL        0x0012EC                   0x000400
+BG_CAROUSEL                                    LABEL        0x00064C                   0x000400
+BG_CAROUSEL_END                                LABEL        0x0006AD                   0x000400
+BG_CAROUSEL_RET                                LABEL        0x0005D5                   0x000400
+BG_FLASHING                                    LABEL        0x0006AF                   0x000400
+BG_FLASHING_END                                LABEL        0x0006DA                   0x000400
+BG_FLASHING_RET                                LABEL        0x0005D3                   0x000400
+BOOT                                           LABEL        0x000C30                   0x000400
+BOOT_ENABLE                                    LABEL        0x000C3A                   0x000400
+BOOT_END                                       LABEL        0x000C3C                   0x000400
+BOOT_RET                                       LABEL        0x0005DD                   0x000400
+CAROUSEL_FUNCTION                              LABEL        0x001352                   0x000400
+CAROUSEL_FUNCTION_END                          LABEL        0x001355                   0x000400
+CARRY                                          LABEL        0x000768                   0x000400
+CARRY_1                                        LABEL        0x000773                   0x000400
+CAT_ADDRESS                                    LABEL        0x0010BE                   0x000400
+CHECK_LOOP_FUNCTION                            LABEL        0x001357                   0x000400
+CHECK_LOOP_FUNCTION_END                        LABEL        0x001367                   0x000400
+CHECK_MISCLICK_ALREADY_HAPPENDED_OR_NOT        LABEL        0x000920                   0x000400
+CHOOSE_END_FUNCTION                            LABEL        0x00134D                   0x000400
+CHOOSE_END_FUNCTION_END                        LABEL        0x001350                   0x000400
+CHOOSE_KEY_SCAN_LINE                           LABEL        0x00099B                   0x000400
+CHOOSE_LED_SCAN_LINE                           LABEL        0x0006E2                   0x000400
+CLEAR_ALL                                      LABEL        0x001388                   0x000400
+CLEAR_ALL_END                                  LABEL        0x0013B5                   0x000400
+CLOSE_INTERRUPT                                LABEL        0x000C8C                   0x000400
+CLOSE_INTERRUPT_END                            LABEL        0x000C8F                   0x000400
+COUNTDOWN_FINISH_OR_NOT                        LABEL        0x000914                   0x000400
+COUNTDOWN_FINISH_OR_NOT_1                      LABEL        0x000ED9                   0x000400
+COUNTDOWN_FINISH_OR_NOT_2                      LABEL        0x00062E                   0x000400
+COUNTDOWN_START                                LABEL        0x000EC8                   0x000400
+COUNTDOWN_START_1                              LABEL        0x000903                   0x000400
+CURRENT_LEVEL_IS_1                             LABEL        0x000970                   0x000400
+CURRENT_LEVEL_IS_2                             LABEL        0x00097C                   0x000400
+CURRENT_LEVEL_IS_3                             LABEL        0x000988                   0x000400
+CURRENT_LEVEL_PLAY                             LABEL        0x000964                   0x000400
+CURRENT_LEVEL_PLAY_END                         LABEL        0x000992                   0x000400
+DADADA_ADDRESS                                 LABEL        0x0010A6                   0x000400
+DEBOUNCE_10MS                                  LABEL        0x00147F                   0x000400
+DEBOUNCE_2                                     LABEL        0x00149B                   0x000400
+DECIMAL                                        LABEL        0x00075D                   0x000400
+DECIMAL_END                                    LABEL        0x000778                   0x000400
+DECODE                                         LABEL        0x000CE1                   0x000400
+DECODE_ENABLE                                  LABEL        0x000EE5                   0x000400
+DECODE_END                                     LABEL        0x000EA2                   0x000400
+DECODE_RET                                     LABEL        0x000C3C                   0x000400
+DELAY_2MS_LOOP                                 LABEL        0x001473                   0x000400
+DELAY_FUNCTION                                 LABEL        0x000EA4                   0x000400
+DELAY_FUNCTION_END                             LABEL        0x000EAD                   0x000400
+DIDI_ADDRESS                                   LABEL        0x00109A                   0x000400
+EIGHT8                                         LABEL        0x00125E                   0x000400
+EXCELLENT                                      LABEL        0x001310                   0x000400
+FIRST_LEVEL                                    LABEL        0x000FC8                   0x000400
+FIRST_TIME                                     LABEL        0x000997                   0x000400
+FIVE5                                          LABEL        0x00123A                   0x000400
+FLASHING_FUNCTION                              LABEL        0x00131C                   0x000400
+FLASHING_FUNCTION_END                          LABEL        0x001331                   0x000400
+FOUR4                                          LABEL        0x00122E                   0x000400
+FUNCTION_TYPE_0                                LABEL        0x000E4B                   0x000400
+FUNCTION_TYPE_E                                LABEL        0x000E60                   0x000400
+FUNCTION_TYPE_F                                LABEL        0x000E90                   0x000400
+GAME_END_FUNCTION                              LABEL        0x0012CD                   0x000400
+GAME_END_FUNCTION_END                          LABEL        0x0012DB                   0x000400
+GAME_OVER                                      LABEL        0x0007C2                   0x000400
+GAME_OVER_END                                  LABEL        0x0007E0                   0x000400
+GAME_PAUSE                                     LABEL        0x000B70                   0x000400
+GAME_READY_FUNCTION                            LABEL        0x000FF8                   0x000400
+GAME_READY_FUNCTION_END                        LABEL        0x001044                   0x000400
+GAME_RESUME                                    LABEL        0x000B89                   0x000400
+GAME_WIN                                       LABEL        0x0007E1                   0x000400
+GAME_WIN_END                                   LABEL        0x000839                   0x000400
+GENERAL_DELAY                                  LABEL        0x000EAF                   0x000400
+GENERAL_DELAY_END                              LABEL        0x000EE8                   0x000400
+GENERAL_DELAY_RET                              LABEL        0x0005D1                   0x000400
+GET_POINT                                      LABEL        0x000779                   0x000400
+GET_POINT_END                                  LABEL        0x000784                   0x000400
+GOGO                                           LABEL        0x000E1F                   0x000400
+GOOD                                           LABEL        0x001304                   0x000400
+GO_TO_MAIN                                     LABEL        0x0014B4                   0x000400
+GO_TO_SLEEP                                    LABEL        0x0013DF                   0x000400
+HAMSTER_0                                      LABEL        0x0008C0                   0x000400
+HAMSTER_1                                      LABEL        0x0008C6                   0x000400
+HAMSTER_2                                      LABEL        0x0008CC                   0x000400
+HAMSTER_3                                      LABEL        0x0008D2                   0x000400
+HAMSTER_4                                      LABEL        0x0008D8                   0x000400
+HAMSTER_5                                      LABEL        0x0008DE                   0x000400
+HAMSTER_6                                      LABEL        0x0008E4                   0x000400
+HIGH_LEVEL                                     LABEL        0x00105E                   0x000400
+HIGH_LEVEL_1                                   LABEL        0x001076                   0x000400
+HONOR_CHECK_FUNCTION                           LABEL        0x0012DD                   0x000400
+HONOR_CHECK_FUNCTION_END                       LABEL        0x00131A                   0x000400
+HUN_0                                          LABEL        0x00111B                   0x000400
+HUN_0_TEN_0                                    LABEL        0x001127                   0x000400
+HUN_0_TEN_0_DIG_0                              LABEL        0x00113F                   0x000400
+HUN_0_TEN_0_DIG_1                              LABEL        0x00114B                   0x000400
+HUN_0_TEN_1                                    LABEL        0x00112D                   0x000400
+HUN_0_TEN_1_DIG_0                              LABEL        0x001157                   0x000400
+HUN_0_TEN_1_DIG_1                              LABEL        0x00115D                   0x000400
+HUN_1                                          LABEL        0x001121                   0x000400
+HUN_1_TEN_0                                    LABEL        0x001133                   0x000400
+HUN_1_TEN_0_DIG_0                              LABEL        0x001163                   0x000400
+HUN_1_TEN_0_DIG_1                              LABEL        0x00116F                   0x000400
+HUN_1_TEN_1                                    LABEL        0x001139                   0x000400
+HUN_1_TEN_1_DIG_0                              LABEL        0x00117B                   0x000400
+HUN_1_TEN_1_DIG_1                              LABEL        0x001187                   0x000400
+HUN_VOICE                                      LABEL        0x001292                   0x000400
+IDIOT_ADDRESS                                  LABEL        0x000CCB                   0x000400
+IDIOT_ADDRESS_END                              LABEL        0x000CD5                   0x000400
+IDIOT_SOUND                                    LABEL        0x000DFA                   0x000400
+INC                                            LABEL        0x0010DA                   0x000400
+INDEX_FUNCTION                                 LABEL        0x0010D6                   0x000400
+INDEX_FUNCTION_END                             LABEL        0x0010E3                   0x000400
+IS_10                                          LABEL        0x001193                   0x000400
+IS_1X                                          LABEL        0x0011AB                   0x000400
+JUDGE_FUNCTION_TYPE                            LABEL        0x000E3F                   0x000400
+KEY_CHANGE_OR_NOT                              LABEL        0x000747                   0x000400
+KEY_CHANGE_OR_NOT_END                          LABEL        0x00074F                   0x000400
+KEY_DEBOUNCE                                   LABEL        0x0009D1                   0x000400
+KEY_ROW_2X                                     LABEL        0x00148B                   0x000400
+KEY_SCAN                                       LABEL        0x000993                   0x000400
+KEY_SCAN_END                                   LABEL        0x000BFA                   0x000400
+KEY_SCAN_LINE_0                                LABEL        0x0009A7                   0x000400
+KEY_SCAN_LINE_0_PRESS_OR_RELEASE_BRANCH_TABLE  LABEL        0x000A08                   0x000400
+KEY_SCAN_LINE_1                                LABEL        0x0009B5                   0x000400
+KEY_SCAN_LINE_1_PRESS_OR_RELEASE_BRANCH_TABLE  LABEL        0x000A1E                   0x000400
+KEY_SCAN_LINE_2                                LABEL        0x0009C3                   0x000400
+KEY_SCAN_LINE_2_PRESS_OR_RELEASE_BRANCH_TABLE  LABEL        0x000A2F                   0x000400
+KEY_SCAN_RET                                   LABEL        0x0005DB                   0x000400
+L1                                             LABEL        0x001010                   0x000400
+L1_APPEAR_TIME                                 LABEL        0x000879                   0x000400
+L1_DELAY                                       LABEL        0x000849                   0x000400
+L2                                             LABEL        0x001022                   0x000400
+L2_APPEAR_TIME                                 LABEL        0x000886                   0x000400
+L2_DELAY                                       LABEL        0x000851                   0x000400
+L2_WAKE                                        LABEL        0x001471                   0x000400
+L3                                             LABEL        0x001034                   0x000400
+L3_APPEAR_TIME                                 LABEL        0x000893                   0x000400
+L3_DELAY                                       LABEL        0x000859                   0x000400
+LED_SCAN                                       LABEL        0x0006DC                   0x000400
+LED_SCAN_END                                   LABEL        0x000727                   0x000400
+LED_SCAN_LINE_0                                LABEL        0x0006EB                   0x000400
+LED_SCAN_LINE_1                                LABEL        0x000700                   0x000400
+LED_SCAN_LINE_2                                LABEL        0x000715                   0x000400
+LED_SCAN_RET                                   LABEL        0x0005D9                   0x000400
+LED_SET_FUNCTION                               LABEL        0x000FB1                   0x000400
+LED_SET_FUNCTION_END                           LABEL        0x000FB7                   0x000400
+LEVEL_CHECK_FUNCTION                           LABEL        0x000FB9                   0x000400
+LEVEL_CHECK_FUNCTION_END                       LABEL        0x000FF6                   0x000400
+LEVEL_CHECK_LOOP                               LABEL        0x00135D                   0x000400
+LEVEL_CONFIRM                                  LABEL        0x000B62                   0x000400
+LEVEL_GO                                       LABEL        0x000BFC                   0x000400
+LEVEL_GO_END                                   LABEL        0x000C2F                   0x000400
+LEVEL_UP                                       LABEL        0x000ABB                   0x000400
+LIFE_0                                         LABEL        0x001378                   0x000400
+LIFE_0_POINT                                   LABEL        0x0007A7                   0x000400
+LIFE_1                                         LABEL        0x00137C                   0x000400
+LIFE_1_POINT                                   LABEL        0x0007AB                   0x000400
+LIFE_2                                         LABEL        0x001380                   0x000400
+LIFE_2_POINT                                   LABEL        0x0007AF                   0x000400
+LIFE_3                                         LABEL        0x001384                   0x000400
+LIFE_POINT_2                                   LABEL        0x0007F8                   0x000400
+LIFE_POINT_3                                   LABEL        0x0007FC                   0x000400
+LIFE_POINT_INC                                 LABEL        0x0007E8                   0x000400
+LIFE_POINT_SHOW_FUNCTION                       LABEL        0x001369                   0x000400
+LIFE_POINT_SHOW_FUNCTION_END                   LABEL        0x001386                   0x000400
+LINE0_KEY0_PRESS_ACTION                        LABEL        0x000A3E                   0x000400
+LINE0_KEY0_RELEASE_ACTION                      LABEL        0x000ACC                   0x000400
+LINE0_KEY1_PRESS_ACTION                        LABEL        0x000A6A                   0x000400
+LINE0_KEY1_RELEASE_ACTION                      LABEL        0x000ACF                   0x000400
+LINE0_KEY2_PRESS_ACTION                        LABEL        0x000A85                   0x000400
+LINE0_KEY2_RELEASE_ACTION                      LABEL        0x000AD2                   0x000400
+LINE0_KEY3_PRESS_ACTION                        LABEL        0x000AA0                   0x000400
+LINE0_KEY3_RELEASE_ACTION                      LABEL        0x000AD5                   0x000400
+LINE1_KEY0_PRESS_ACTION                        LABEL        0x000AD8                   0x000400
+LINE1_KEY0_RELEASE_ACTION                      LABEL        0x000B40                   0x000400
+LINE1_KEY1_PRESS_ACTION                        LABEL        0x000AF3                   0x000400
+LINE1_KEY1_RELEASE_ACTION                      LABEL        0x000B43                   0x000400
+LINE1_KEY2_PRESS_ACTION                        LABEL        0x000B25                   0x000400
+LINE1_KEY2_RELEASE_ACTION                      LABEL        0x000B46                   0x000400
+LINE2_KEY0_PRESS_ACTION                        LABEL        0x000B49                   0x000400
+LINE2_KEY0_RELEASE_ACTION                      LABEL        0x000BBD                   0x000400
+LINE2_KEY1_PRESS_ACTION                        LABEL        0x000B9B                   0x000400
+LINE2_KEY1_RELEASE_ACTION                      LABEL        0x000BC0                   0x000400
+LOOP_END_FUNCTION                              LABEL        0x001046                   0x000400
+LOOP_END_FUNCTION_END                          LABEL        0x001068                   0x000400
+LOOP_SIX_TIME                                  LABEL        0x000EF4                   0x000400
+LOSE                                           LABEL        0x0007BE                   0x000400
+LOSE_ADDRESS                                   LABEL        0x000CB5                   0x000400
+LOSE_ADDRESS_END                               LABEL        0x000CBF                   0x000400
+LOSE_GAME                                      LABEL        0x000D97                   0x000400
+LOSE_LIFE_POINT_OR_NOT                         LABEL        0x000785                   0x000400
+LOSE_LIFE_POINT_OR_NOT_END                     LABEL        0x0007B3                   0x000400
+LOSE_OR_NOT                                    LABEL        0x0007B4                   0x000400
+LOSE_OR_NOT_END                                LABEL        0x0007C1                   0x000400
+LOW_LEVEL                                      LABEL        0x001052                   0x000400
+LOW_LEVEL_1                                    LABEL        0x001082                   0x000400
+MAIN_LOOP                                      LABEL        0x0005CD                   0x000400
+MAIN_POLLING_TIMER                             LABEL        0x0005E1                   0x000400
+MAIN_POLLING_TIMER_END                         LABEL        0x000601                   0x000400
+MAIN_POLLING_TIMER_RET                         LABEL        0x0005CF                   0x000400
+MISCLICK_ALREADY_HAPPEND                       LABEL        0x000926                   0x000400
+MISCLICK_DIDNT_HAPPEND                         LABEL        0x000930                   0x000400
+MISS_DIDNT_HAPPEND                             LABEL        0x000953                   0x000400
+MISS_HAPPEND                                   LABEL        0x00093A                   0x000400
+NINE9                                          LABEL        0x00126A                   0x000400
+NOTHING                                        LABEL        0x000D8E                   0x000400
+NOTHING_1                                      LABEL        0x000DE6                   0x000400
+NO_1_GO                                        LABEL        0x000C0B                   0x000400
+NO_1_GRAPHIC                                   LABEL        0x00066F                   0x000400
+NO_2_GO                                        LABEL        0x000C17                   0x000400
+NO_2_GRAPHIC                                   LABEL        0x000680                   0x000400
+NO_3_GO                                        LABEL        0x000C23                   0x000400
+NO_3_GRAPHIC                                   LABEL        0x000691                   0x000400
+NO_4_GRAPHIC                                   LABEL        0x0006A2                   0x000400
+NUMBER_CHECK                                   LABEL        0x0011DD                   0x000400
+NUMBER_CHECK_END                               LABEL        0x001274                   0x000400
+NUM_1                                          LABEL        0x0010F1                   0x000400
+NUM_1X                                         LABEL        0x000BD8                   0x000400
+NUM_2                                          LABEL        0x0010FD                   0x000400
+NUM_2X                                         LABEL        0x000BE4                   0x000400
+NUM_3                                          LABEL        0x001109                   0x000400
+NUM_3X                                         LABEL        0x000BF0                   0x000400
+ONE1                                           LABEL        0x00120A                   0x000400
+OPEN_INTERRUPT                                 LABEL        0x000C90                   0x000400
+OPEN_INTERRUPT_END                             LABEL        0x000C93                   0x000400
+OTHERS                                         LABEL        0x00119F                   0x000400
+OTHERS_1                                       LABEL        0x0011B7                   0x000400
+OTHER_COUNTERS                                 LABEL        0x0005F1                   0x000400
+OTHER_SOUND_FUNCTION                           LABEL        0x001275                   0x000400
+OTHER_SOUND_FUNCTION_END                       LABEL        0x0012B4                   0x000400
+PAUSE_OR_NOT                                   LABEL        0x000B66                   0x000400
+PLAY_SCORE_AND_LEVEL                           LABEL        0x000BC9                   0x000400
+PLAY_SCORE_FUNCTION                            LABEL        0x0010E5                   0x000400
+PLAY_SCORE_FUNCTION_END                        LABEL        0x001113                   0x000400
+POINT_VOICE                                    LABEL        0x0012AA                   0x000400
+PRESS_OR_RELEASE                               LABEL        0x000750                   0x000400
+PRESS_OR_RELEASE_END                           LABEL        0x00075C                   0x000400
+P_LOW0_FUNCTION                                LABEL        0x0011C5                   0x000400
+P_LOW0_FUNCTION_END                            LABEL        0x0011CB                   0x000400
+P_LOW1_FUNCTION                                LABEL        0x0011CD                   0x000400
+P_LOW1_FUNCTION_END                            LABEL        0x0011D3                   0x000400
+P_MID0_FUNCTION                                LABEL        0x0011D5                   0x000400
+P_MID0_FUNCTION_END                            LABEL        0x0011DB                   0x000400
+RANDOM                                         LABEL        0x0008A1                   0x000400
+RANDOM_DELAY                                   LABEL        0x0008EA                   0x000400
+RANDOM_ENABLE_AND_MISCLICK_FLAG_CLOSE          LABEL        0x00095D                   0x000400
+RANDOM_ENABLE_AND_MISCLICK_FLAG_CLOSE_END      LABEL        0x000963                   0x000400
+RANDOM_END                                     LABEL        0x00095B                   0x000400
+RANDOM_RET                                     LABEL        0x0005DF                   0x000400
+RANDOM_VALUE_INC                               LABEL        0x0005EA                   0x000400
+RANDOM_VALUE_RESET_TO_ZERO                     LABEL        0x0005EF                   0x000400
+READ_CURRENT_TABLE                             LABEL        0x000C76                   0x000400
+READ_CURRENT_TABLE_END                         LABEL        0x000C80                   0x000400
+READ_VOICE_TABLE                               LABEL        0x000C81                   0x000400
+READ_VOICE_TABLE_END                           LABEL        0x000C8B                   0x000400
+RESET_1_ADDRESS                                LABEL        0x00108E                   0x000400
+RESET_ADDRESS                                  LABEL        0x0010B2                   0x000400
+RESET_ADPCM_LOOP_CNT                           LABEL        0x000F1A                   0x000400
+RESET_KEY_SCAN_LINE_COUNTER                    LABEL        0x0009A5                   0x000400
+RESET_LEVEL                                    LABEL        0x0007FE                   0x000400
+RESET_LEVEL_CNT                                LABEL        0x000A64                   0x000400
+RESET_LEVEL_CNT_1                              LABEL        0x000AC6                   0x000400
+RESET_MISCLICK                                 LABEL        0x0007B1                   0x000400
+RESET_TO_ZERO                                  LABEL        0x0010E1                   0x000400
+RETURN_CHECK_FUNCTION                          LABEL        0x00106A                   0x000400
+RETURN_CHECK_FUNCTION_END                      LABEL        0x0010D4                   0x000400
+RETURN_END_FUNCTION                            LABEL        0x0012B6                   0x000400
+RETURN_END_FUNCTION_END                        LABEL        0x0012C0                   0x000400
+RET_ADDRESS_FUNCTION                           LABEL        0x0013C2                   0x000400
+RET_ADDRESS_FUNCTION_END                       LABEL        0x0013D2                   0x000400
+RIGHT_ADDRESS                                  LABEL        0x000C94                   0x000400
+RIGHT_ADDRESS_END                              LABEL        0x000C9E                   0x000400
+RIGHT_CLICK_LINE0_KEY0                         LABEL        0x000A4C                   0x000400
+RIGHT_CLICK_LINE0_KEY1                         LABEL        0x000A78                   0x000400
+RIGHT_CLICK_LINE0_KEY2                         LABEL        0x000A93                   0x000400
+RIGHT_CLICK_LINE0_KEY3                         LABEL        0x000AAE                   0x000400
+RIGHT_CLICK_LINE1_KEY0                         LABEL        0x000AE6                   0x000400
+RIGHT_CLICK_LINE1_KEY1                         LABEL        0x000B01                   0x000400
+RIGHT_CLICK_LINE1_KEY2                         LABEL        0x000B33                   0x000400
+RIGHT_SOUND                                    LABEL        0x000E0D                   0x000400
+SAVE_ADDRESS_FUNCTION                          LABEL        0x0013B6                   0x000400
+SAVE_ADDRESS_FUNCTION_END                      LABEL        0x0013C0                   0x000400
+SAVE_CURRENT_FLOW                              LABEL        0x0012C2                   0x000400
+SAVE_CURRENT_FLOW_END                          LABEL        0x0012CC                   0x000400
+SAVE_OLD_KEY_0                                 LABEL        0x0009E0                   0x000400
+SAVE_OLD_KEY_1                                 LABEL        0x0009F0                   0x000400
+SAVE_OLD_KEY_2                                 LABEL        0x000A00                   0x000400
+SCORE_CHECK_FUNCTION                           LABEL        0x001115                   0x000400
+SCORE_CHECK_FUNCTION_END                       LABEL        0x0011C3                   0x000400
+SECOND_LEVEL                                   LABEL        0x000FD4                   0x000400
+SET_KEY_SCAN_LINE_0                            LABEL        0x000729                   0x000400
+SET_KEY_SCAN_LINE_0_END                        LABEL        0x000732                   0x000400
+SET_KEY_SCAN_LINE_1                            LABEL        0x000733                   0x000400
+SET_KEY_SCAN_LINE_1_END                        LABEL        0x00073C                   0x000400
+SET_KEY_SCAN_LINE_2                            LABEL        0x00073D                   0x000400
+SET_KEY_SCAN_LINE_2_END                        LABEL        0x000746                   0x000400
+SET_RANDOM_DELAY                               LABEL        0x00083A                   0x000400
+SET_RANDOM_DELAY_END                           LABEL        0x00085F                   0x000400
+SET_STOP_FLAG_FUNCTION                         LABEL        0x0013D4                   0x000400
+SET_STOP_FLAG_FUNCTION_END                     LABEL        0x0013DD                   0x000400
+SEVEN7                                         LABEL        0x001252                   0x000400
+SIGNAL_RISE                                    LABEL        0x0005E5                   0x000400
+SIGNAL_RISE_1                                  LABEL        0x000EB7                   0x000400
+SIGNAL_RISE_2                                  LABEL        0x000607                   0x000400
+SIGNAL_RISE_3                                  LABEL        0x0008F2                   0x000400
+SILENCE                                        LABEL        0x000B0E                   0x000400
+SILENCE_DISABLE                                LABEL        0x000B19                   0x000400
+SILENCE_ENABLE                                 LABEL        0x000B14                   0x000400
+SIX6                                           LABEL        0x001246                   0x000400
+SLEEP_END_FUNCTION                             LABEL        0x0013DF                   0x000400
+SLEEP_END_FUNCTION_END                         LABEL        0x00152E                   0x000400
+SLEEP_POLLING_TIMER                            LABEL        0x000603                   0x000400
+SLEEP_POLLING_TIMER_END                        LABEL        0x000611                   0x000400
+SLOW_ADDRESS                                   LABEL        0x000CD6                   0x000400
+SLOW_ADDRESS_END                               LABEL        0x000CE0                   0x000400
+SLOW_SOUND                                     LABEL        0x000E05                   0x000400
+SOSO                                           LABEL        0x0012F8                   0x000400
+START_READ_VOICE_TABLE                         LABEL        0x000F1C                   0x000400
+TABLE_ADDRESS_INC                              LABEL        0x000C3E                   0x000400
+TABLE_ADDRESS_INC_END                          LABEL        0x000C59                   0x000400
+TEN_VOICE                                      LABEL        0x001286                   0x000400
+THIRD_LEVEL                                    LABEL        0x000FE0                   0x000400
+THOU_VOICE                                     LABEL        0x00129E                   0x000400
+THREE3                                         LABEL        0x001222                   0x000400
+TURKEY                                         LABEL        0x000FEC                   0x000400
+TURKEY_1                                       LABEL        0x00081D                   0x000400
+TURN_OFF_CHECK                                 LABEL        0x000612                   0x000400
+TURN_OFF_CHECK_END                             LABEL        0x00064A                   0x000400
+TURN_OFF_CHECK_RET                             LABEL        0x0005D7                   0x000400
+TWO2                                           LABEL        0x001216                   0x000400
+UNKNOW_ADDRESS                                 LABEL        0x0010CA                   0x000400
+VOICE_ADDRESS_INC                              LABEL        0x000C5A                   0x000400
+VOICE_ADDRESS_INC_END                          LABEL        0x000C75                   0x000400
+WHICH_HAMSTER_LED_SHOULD_OPEN                  LABEL        0x0008A7                   0x000400
+WHICH_OLD_KEY_NEED_TO_SAVE                     LABEL        0x0009D7                   0x000400
+WIN_ADDRESS                                    LABEL        0x000CAA                   0x000400
+WIN_ADDRESS_END                                LABEL        0x000CB4                   0x000400
+WRONG_ADDRESS                                  LABEL        0x000C9F                   0x000400
+WRONG_ADDRESS_END                              LABEL        0x000CA9                   0x000400
+WRONG_CLICK_LINE0_KEY0                         LABEL        0x000A53                   0x000400
+WRONG_CLICK_LINE0_KEY1                         LABEL        0x000A7F                   0x000400
+WRONG_CLICK_LINE0_KEY2                         LABEL        0x000A9A                   0x000400
+WRONG_CLICK_LINE0_KEY3                         LABEL        0x000AB5                   0x000400
+WRONG_CLICK_LINE1_KEY0                         LABEL        0x000AED                   0x000400
+WRONG_CLICK_LINE1_KEY1                         LABEL        0x000B08                   0x000400
+WRONG_CLICK_LINE1_KEY2                         LABEL        0x000B3A                   0x000400
+WRONG_SOUND                                    LABEL        0x000E16                   0x000400
+ZERO0                                          LABEL        0x0011FE                   0x000400
+AWESOME_TABLE                                  LABEL        0x0021EC                   0x002000
+BOOT_TABLE                                     LABEL        0x00215C                   0x002000
+CAT                                            LABEL        0x0021B6                   0x002000
+CHECKPOINT_1                                   LABEL        0x002348                   0x002000
+CHOOSE_LEVEL                                   LABEL        0x002342                   0x002000
+CLOSE                                          LABEL        0x002381                   0x002000
+COLLAGE                                        LABEL        0x00230C                   0x002000
+DADADA                                         LABEL        0x0021DD                   0x002000
+DIDI                                           LABEL        0x0021D4                   0x002000
+EIGHT                                          LABEL        0x002453                   0x002000
+ELEMENTARY                                     LABEL        0x0022D6                   0x002000
+FIVE                                           LABEL        0x002441                   0x002000
+FOUR                                           LABEL        0x00243B                   0x002000
+GAME_START_TABLE                               LABEL        0x0021B0                   0x002000
+GENIUS                                         LABEL        0x00232D                   0x002000
+HIGH_LEVEL_GAME_START_TABLE                    LABEL        0x0021CE                   0x002000
+HUNDRED                                        LABEL        0x002465                   0x002000
+IDIOT_TABLE                                    LABEL        0x0021F8                   0x002000
+JUNIOR                                         LABEL        0x0022F1                   0x002000
+LEV1                                           LABEL        0x00234B                   0x002000
+LEV2                                           LABEL        0x002357                   0x002000
+LEV3                                           LABEL        0x002363                   0x002000
+LEVEL_1_TABLE                                  LABEL        0x002171                   0x002000
+LEVEL_2_TABLE                                  LABEL        0x002186                   0x002000
+LEVEL_3_TABLE                                  LABEL        0x00219B                   0x002000
+NINE                                           LABEL        0x002459                   0x002000
+NO_1                                           LABEL        0x002297                   0x002000
+NO_2                                           LABEL        0x0022AC                   0x002000
+NO_3                                           LABEL        0x0022C1                   0x002000
+ONE                                            LABEL        0x002429                   0x002000
+PAUSE_VOICE                                    LABEL        0x002375                   0x002000
+POINT                                          LABEL        0x002471                   0x002000
+RESET                                          LABEL        0x0021C8                   0x002000
+RESET_1                                        LABEL        0x0021E6                   0x002000
+RESUME_VOICE                                   LABEL        0x00237B                   0x002000
+RIGHT                                          LABEL        0x00220D                   0x002000
+SCORE_DIGIT                                    LABEL        0x0023A5                   0x002000
+SCORE_HUN                                      LABEL        0x00240E                   0x002000
+SCORE_HUN_DIV_BY_10                            LABEL        0x0023FC                   0x002000
+SCORE_HUN_DIV_BY_100                           LABEL        0x0023DE                   0x002000
+SCORE_HUN_ZERO_DIGIT                           LABEL        0x0023EA                   0x002000
+SCORE_TENS_10                                  LABEL        0x0023AE                   0x002000
+SCORE_TENS_11_TO_19                            LABEL        0x0023C3                   0x002000
+SCORE_TENS_21_TO_99                            LABEL        0x0023CF                   0x002000
+SCORE_TENS_DIV_BY_10                           LABEL        0x0023B7                   0x002000
+SCORE_ZERO                                     LABEL        0x00239C                   0x002000
+SEVEN                                          LABEL        0x00244D                   0x002000
+SILENCE_VOICE                                  LABEL        0x00236F                   0x002000
+SIX                                            LABEL        0x002447                   0x002000
+SLOW_TABLE                                     LABEL        0x002204                   0x002000
+TEN                                            LABEL        0x00245F                   0x002000
+THOUSAND                                       LABEL        0x00246B                   0x002000
+THREE                                          LABEL        0x002435                   0x002000
+TWO                                            LABEL        0x00242F                   0x002000
+UNKNOW                                         LABEL        0x0021BF                   0x002000
+U_LOSE                                         LABEL        0x00226D                   0x002000
+U_LOSE_1                                       LABEL        0x002273                   0x002000
+U_LOSE_2                                       LABEL        0x00227C                   0x002000
+U_LOSE_3                                       LABEL        0x00228B                   0x002000
+U_WIN                                          LABEL        0x002219                   0x002000
+U_WIN_1                                        LABEL        0x002222                   0x002000
+U_WIN_2                                        LABEL        0x00222E                   0x002000
+U_WIN_3                                        LABEL        0x00223A                   0x002000
+U_WIN_4                                        LABEL        0x00224C                   0x002000
+U_WIN_5                                        LABEL        0x00225E                   0x002000
+VOICE_TABLE                                    LABEL        0x002000                   0x002000
+WRONG                                          LABEL        0x002213                   0x002000
+ZERO                                           LABEL        0x002423                   0x002000
+V28                                            GLOBALLABEL  0x002477  V28              0x002477
+s16.adp                                        LABEL        0x002477  V28              0x002477
+V34                                            GLOBALLABEL  0x0079C8  V34              0x0079C8
+s20.adp                                        LABEL        0x0079C8  V34              0x0079C8
+V0                                             GLOBALLABEL  0x00A36F  V0               0x00A36F
+applau00.adp                                   LABEL        0x00A36F  V0               0x00A36F
+V29                                            GLOBALLABEL  0x00BF70  V29              0x00BF70
+s17.adp                                        LABEL        0x00BF70  V29              0x00BF70
+V36                                            GLOBALLABEL  0x00D9B9  V36              0x00D9B9
+s23.adp                                        LABEL        0x00D9B9  V36              0x00D9B9
+V40                                            GLOBALLABEL  0x00F2A2  V40              0x00F2A2
+s27.adp                                        LABEL        0x00F2A2  V40              0x00F2A2
+V10                                            GLOBALLABEL  0x0107B4  V10              0x0107B4
+ready.adp                                      LABEL        0x0107B4  V10              0x0107B4
+V57                                            GLOBALLABEL  0x011C83  V57              0x011C83
+Win.adp                                        LABEL        0x011C83  V57              0x011C83
+V42                                            GLOBALLABEL  0x01313F  V42              0x01313F
+s29.adp                                        LABEL        0x01313F  V42              0x01313F
+V49                                            GLOBALLABEL  0x014557  V49              0x014557
+s34.adp                                        LABEL        0x014557  V49              0x014557
+V51                                            GLOBALLABEL  0x015951  V51              0x015951
+s36.adp                                        LABEL        0x015951  V51              0x015951
+V38                                            GLOBALLABEL  0x016D48  V38              0x016D48
+s25.adp                                        LABEL        0x016D48  V38              0x016D48
+V50                                            GLOBALLABEL  0x0180D1  V50              0x0180D1
+s35.adp                                        LABEL        0x0180D1  V50              0x0180D1
+V52                                            GLOBALLABEL  0x01943D  V52              0x01943D
+s37.adp                                        LABEL        0x01943D  V52              0x01943D
+V39                                            GLOBALLABEL  0x01A749  V39              0x01A749
+s26.adp                                        LABEL        0x01A749  V39              0x01A749
+V41                                            GLOBALLABEL  0x01BA17  V41              0x01BA17
+s28.adp                                        LABEL        0x01BA17  V41              0x01BA17
+Over.adp                                       LABEL        0x01CCE2  V9               0x01CCE2
+V9                                             GLOBALLABEL  0x01CCE2  V9               0x01CCE2
+LevelOk.adp                                    LABEL        0x01DF8D  V2               0x01DF8D
+V2                                             GLOBALLABEL  0x01DF8D  V2               0x01DF8D
+V47                                            GLOBALLABEL  0x01F16D  V47              0x01F16D
+s32.adp                                        LABEL        0x01F16D  V47              0x01F16D
+V43                                            GLOBALLABEL  0x020310  V43              0x020310
+s30.adp                                        LABEL        0x020310  V43              0x020310
+V45                                            GLOBALLABEL  0x021432  V45              0x021432
+s31.adp                                        LABEL        0x021432  V45              0x021432
+V48                                            GLOBALLABEL  0x0224F1  V48              0x0224F1
+s33.adp                                        LABEL        0x0224F1  V48              0x0224F1
+LV01b.adp                                      LABEL        0x02357E  V4               0x02357E
+V4                                             GLOBALLABEL  0x02357E  V4               0x02357E
+V44                                            GLOBALLABEL  0x02458B  V44              0x02458B
+s30a.adp                                       LABEL        0x02458B  V44              0x02458B
+V46                                            GLOBALLABEL  0x025479  V46              0x025479
+s31a.adp                                       LABEL        0x025479  V46              0x025479
+LV01c.adp                                      LABEL        0x0262F9  V5               0x0262F9
+V5                                             GLOBALLABEL  0x0262F9  V5               0x0262F9
+V18                                            GLOBALLABEL  0x0270F1  V18              0x0270F1
+s6.adp                                         LABEL        0x0270F1  V18              0x0270F1
+V37                                            GLOBALLABEL  0x027E95  V37              0x027E95
+s24.adp                                        LABEL        0x027E95  V37              0x027E95
+V21                                            GLOBALLABEL  0x028AF1  V21              0x028AF1
+s9.adp                                         LABEL        0x028AF1  V21              0x028AF1
+V22                                            GLOBALLABEL  0x029742  V22              0x029742
+s10.adp                                        LABEL        0x029742  V22              0x029742
+V16                                            GLOBALLABEL  0x02A344  V16              0x02A344
+s4.adp                                         LABEL        0x02A344  V16              0x02A344
+V19                                            GLOBALLABEL  0x02AF32  V19              0x02AF32
+s7.adp                                         LABEL        0x02AF32  V19              0x02AF32
+V15                                            GLOBALLABEL  0x02BAA5  V15              0x02BAA5
+s3.adp                                         LABEL        0x02BAA5  V15              0x02BAA5
+V24                                            GLOBALLABEL  0x02C5EA  V24              0x02C5EA
+s12.adp                                        LABEL        0x02C5EA  V24              0x02C5EA
+V35                                            GLOBALLABEL  0x02D0FC  V35              0x02D0FC
+s22.adp                                        LABEL        0x02D0FC  V35              0x02D0FC
+V53                                            GLOBALLABEL  0x02DC09  V53              0x02DC09
+s38.adp                                        LABEL        0x02DC09  V53              0x02DC09
+V55                                            GLOBALLABEL  0x02E711  V55              0x02E711
+s41.adp                                        LABEL        0x02E711  V55              0x02E711
+V17                                            GLOBALLABEL  0x02F1C3  V17              0x02F1C3
+s5.adp                                         LABEL        0x02F1C3  V17              0x02F1C3
+S0.adp                                         LABEL        0x02FC43  V12              0x02FC43
+V12                                            GLOBALLABEL  0x02FC43  V12              0x02FC43
+V31                                            GLOBALLABEL  0x030691  V31              0x030691
+s19.adp                                        LABEL        0x030691  V31              0x030691
+V27                                            GLOBALLABEL  0x0310AC  V27              0x0310AC
+s15.adp                                        LABEL        0x0310AC  V27              0x0310AC
+V14                                            GLOBALLABEL  0x031AA5  V14              0x031AA5
+s2.adp                                         LABEL        0x031AA5  V14              0x031AA5
+V30                                            GLOBALLABEL  0x032473  V30              0x032473
+s18.adp                                        LABEL        0x032473  V30              0x032473
+V54                                            GLOBALLABEL  0x032E26  V54              0x032E26
+s40.adp                                        LABEL        0x032E26  V54              0x032E26
+V13                                            GLOBALLABEL  0x0337D8  V13              0x0337D8
+s1.adp                                         LABEL        0x0337D8  V13              0x0337D8
+V20                                            GLOBALLABEL  0x03413C  V20              0x03413C
+s8.adp                                         LABEL        0x03413C  V20              0x03413C
+LV01a.adp                                      LABEL        0x034A6E  V3               0x034A6E
+V3                                             GLOBALLABEL  0x034A6E  V3               0x034A6E
+V26                                            GLOBALLABEL  0x035342  V26              0x035342
+s14.adp                                        LABEL        0x035342  V26              0x035342
+V23                                            GLOBALLABEL  0x035BA9  V23              0x035BA9
+s11.adp                                        LABEL        0x035BA9  V23              0x035BA9
+V25                                            GLOBALLABEL  0x0363D3  V25              0x0363D3
+s13.adp                                        LABEL        0x0363D3  V25              0x0363D3
+S19B.adp                                       LABEL        0x036BB6  V33              0x036BB6
+V33                                            GLOBALLABEL  0x036BB6  V33              0x036BB6
+V32                                            GLOBALLABEL  0x03738F  V32              0x03738F
+s19a.adp                                       LABEL        0x03738F  V32              0x03738F
+Error.adp                                      LABEL        0x037AAA  V1               0x037AAA
+V1                                             GLOBALLABEL  0x037AAA  V1               0x037AAA
+LV03c.adp                                      LABEL        0x038121  V8               0x038121
+V8                                             GLOBALLABEL  0x038121  V8               0x038121
+LV03a.adp                                      LABEL        0x0386D6  V6               0x0386D6
+V6                                             GLOBALLABEL  0x0386D6  V6               0x0386D6
+Stop.adp                                       LABEL        0x038BF7  V56              0x038BF7
+V56                                            GLOBALLABEL  0x038BF7  V56              0x038BF7
+LV03b.adp                                      LABEL        0x03906E  V7               0x03906E
+V7                                             GLOBALLABEL  0x03906E  V7               0x03906E
+Right.adp                                      LABEL        0x0394D2  V11              0x0394D2
+V11                                            GLOBALLABEL  0x0394D2  V11              0x0394D2

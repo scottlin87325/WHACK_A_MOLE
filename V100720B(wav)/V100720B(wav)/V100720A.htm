@@ -1,0 +1,127 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" >
+	<head>
+	      
+	<STYLE type="text/css">
+	<!--
+	IMG#logo { width: 143px; height: 35px; }
+	.TextTitle{ position:relative;top:-12px; font-size:19px; font-family:Arial; font-weight:bold; }
+	.TextCellLabel{ font-size:13px; font-family:Arial; font-weight:bold; }
+	.TextCellItem{ font-size:13px; font-family:Arial; }
+	.TableCell1 {width:380px; height:22px;}
+	.TableCell2 {width:360px; height:22px;}
+	.TableCellPadding {width:10px; height:22px;}
+	.TextTableHead{ font-size:13px; font-family:Arial; font-weight:bold;}
+	.TextTableInfo{ font-size:12px; font-family:Arial; font-weight:bold; font-style: italic}
+	.TableIOPinSetting{width:660px;table-layout:auto; border-collapse:separate;}
+	.TableIOPinSettingHeader{left:0cm; position: relative; text-align:center; text-decoration:underline; font-size:13px; font-family:Arial; font-weight:bold;}
+	.TableIOPinSectionRow{left:0cm; position: relative; text-align:center; font-size:13px; font-family:Arial;}
+	.TableIOColumnPin{width: 60px}
+	.TableIOColumnType{width: 80px}
+	.TableIOColumnInMode{width: 80px}
+	.TableIOColumnOutMode{width: 80px}
+	.TableIOColumnStatus{width: 50px}
+
+	.TextNote{ position:relative;text-align:justify; vertical-align: text-top; font-size:16px; color: red; font-family:Arial; font-weight:bold; }	
+	.TextNoteContent{ position:relative;text-align:justify; vertical-align: text-top; font-size:13px; color: red; font-family:Arial; }
+	-->
+	</STYLE>
+	
+	<title>Nyquest Technology Co., Ltd.</title>
+	
+	</head>
+
+	<body>
+	
+		<br/>
+		<p>
+		<IMG id=logo src="file:///C:\Nyquest\asm\NYASM\logo.bmp" alt="Nyquest" />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT CLASS = TextTitle >NY5B045A Check List</FONT>
+		</p>
+		<br/>
+ 
+		<table>
+			<tr>
+			    <td CLASS =TableCell1><FONT CLASS =TextCellLabel>*Client: </FONT><FONT CLASS =TextCellItem>V100720A</FONT></td>
+<td CLASS =TableCell1><FONT CLASS =TextCellLabel>*File Name: </FONT><FONT CLASS =TextCellItem>V100720A.bin</FONT></td>
+			</tr>
+			<tr>
+			    <td CLASS =TableCell1><FONT CLASS =TextCellLabel>*ASM Version: </FONT><FONT CLASS =TextCellItem>NYASM 1.40</FONT></td>
+			    <td CLASS =TableCell1><FONT CLASS =TextCellLabel>*File Size: </FONT><FONT CLASS =TextCellItem>81344 bytes</FONT></td>
+			</tr>
+			<tr>
+			    <td CLASS =TableCell1><FONT CLASS =TextCellLabel>*Tool Version: </FONT><FONT CLASS =TextCellItem>Q-Code 1.20</FONT></td>
+			    <td CLASS =TableCell1><FONT CLASS =TextCellLabel>*Checksum: </FONT><FONT CLASS =TextCellItem>55E96F</FONT></td>
+			</tr>
+			<tr>
+			    <td CLASS =TableCell1><FONT CLASS =TextCellLabel>*Date: </FONT><FONT CLASS =TextCellItem>2010/7/22</FONT></td>
+			    <td CLASS =TableCell1><FONT CLASS =TextCellLabel></FONT><FONT CLASS =TextCellItem></FONT></td>
+			</tr>									
+		</table>
+		
+		<br/>
+		<br/>
+    
+		<FONT CLASS = TextTableHead >*Options:</FONT>	
+		<br/>
+
+		<table >
+			<tr>
+			    <td CLASS =TableCellPadding /><td CLASS =TableCell2><FONT CLASS =TextCellLabel>(1). VDD Voltage: </FONT><FONT CLASS =TextCellItem>4.5V</FONT></td>
+			    <td CLASS =TableCell2><FONT CLASS =TextCellLabel>(2). OSC TYPE: </FONT><FONT CLASS =TextCellItem>INT</FONT></td>
+			</tr>
+			<tr>
+			    <td CLASS =TableCellPadding /><td CLASS =TableCell2><FONT CLASS =TextCellLabel>(3). IR_TX Carrier: </FONT><FONT CLASS =TextCellItem>High/ 37.037 kHz</FONT></td>
+			    <td CLASS =TableCell2><FONT CLASS =TextCellLabel>(4). Pull-high Resistor: </FONT><FONT CLASS =TextCellItem>Weak</FONT></td>
+			</tr>
+			<tr>
+			    <td CLASS =TableCellPadding /><td CLASS =TableCell2><FONT CLASS =TextCellLabel>(5). CH Mode: </FONT><FONT CLASS =TextCellItem>MV/ MV/ MV/ MV</FONT></td>
+			    <td CLASS =TableCell2><FONT CLASS =TextCellLabel>(6). PWM Current: </FONT><FONT CLASS =TextCellItem>Large</FONT></td>
+			</tr>
+			<tr>
+			    <td CLASS =TableCellPadding /><td CLASS =TableCell2><FONT CLASS =TextCellLabel>(7). Pause/Resume Function: </FONT><FONT CLASS =TextCellItem>Disable</FONT></td>
+<td CLASS =TableCell2><FONT CLASS =TextCellLabel>(8). Voice Output: </FONT><FONT CLASS =TextCellItem>PWM</FONT></td>
+			</tr>									
+		</table>    
+    		<br/><br/>
+		<FONT CLASS = TextTableHead >*I/O Pin Setting:</FONT>
+		<br/>		
+		<table CLASS=TableIOPinSetting>
+		    <tr CLASS= TableIOPinSettingHeader > 
+		        <td bgcolor="LightGrey";CLASS= TableIOColumnPin>Pin</td>
+		        <td bgcolor="LightGrey";CLASS= TableIOColumnType>Type</td>
+		        <td bgcolor="LightGrey";CLASS= TableIOColumnInMode>Input Mode</td>
+		        <td bgcolor="LightGrey";CLASS= TableIOColumnOutMode>Output Initial</td>		        
+		        <td bgcolor="LightGrey";CLASS= TableIOColumnStatus>Output Current</td>
+		    </tr>     
+<tr CLASS= TableIOPinSectionRow><td CLASS= TableIOColumnPin>PA0</td><td>Input</td><td>Pull High</td><td>--</td><td>--</td></tr>
+<tr CLASS= TableIOPinSectionRow><td  CLASS= TableIOColumnPin; bgcolor=LightGrey>PA1</td><td bgcolor=LightGrey>Input</td><td bgcolor=LightGrey>Pull High</td><td bgcolor=LightGrey>--</td><td bgcolor=LightGrey>--</td></tr>
+<tr CLASS= TableIOPinSectionRow><td CLASS= TableIOColumnPin>PA2</td><td>Input</td><td>Pull High</td><td>--</td><td>--</td></tr>
+<tr CLASS= TableIOPinSectionRow><td  CLASS= TableIOColumnPin; bgcolor=LightGrey>PA3</td><td bgcolor=LightGrey>Input</td><td bgcolor=LightGrey>Pull High</td><td bgcolor=LightGrey>--</td><td bgcolor=LightGrey>--</td></tr>
+<tr CLASS= TableIOPinSectionRow><td CLASS= TableIOColumnPin>PB0</td><td>Input</td><td>Pull High</td><td>--</td><td>--</td></tr>
+<tr CLASS= TableIOPinSectionRow><td  CLASS= TableIOColumnPin; bgcolor=LightGrey>PB1</td><td bgcolor=LightGrey>Input</td><td bgcolor=LightGrey>Pull High</td><td bgcolor=LightGrey>--</td><td bgcolor=LightGrey>--</td></tr>
+<tr CLASS= TableIOPinSectionRow><td CLASS= TableIOColumnPin>PB2</td><td>Input</td><td>Pull High</td><td>--</td><td>--</td></tr>
+<tr CLASS= TableIOPinSectionRow><td  CLASS= TableIOColumnPin; bgcolor=LightGrey>PB3</td><td bgcolor=LightGrey>Input</td><td bgcolor=LightGrey>Pull High</td><td bgcolor=LightGrey>--</td><td bgcolor=LightGrey>--</td></tr>
+<tr CLASS= TableIOPinSectionRow><td CLASS= TableIOColumnPin>PC0</td><td>Input</td><td>Pull High</td><td>--</td><td>--</td></tr>
+<tr CLASS= TableIOPinSectionRow><td  CLASS= TableIOColumnPin; bgcolor=LightGrey>PC1</td><td bgcolor=LightGrey>Input</td><td bgcolor=LightGrey>Pull High</td><td bgcolor=LightGrey>--</td><td bgcolor=LightGrey>--</td></tr>
+<tr CLASS= TableIOPinSectionRow><td CLASS= TableIOColumnPin>PC2</td><td>Input</td><td>Pull High</td><td>--</td><td>--</td></tr>
+<tr CLASS= TableIOPinSectionRow><td  CLASS= TableIOColumnPin; bgcolor=LightGrey>PC3</td><td bgcolor=LightGrey>Input</td><td bgcolor=LightGrey>Pull High</td><td bgcolor=LightGrey>--</td><td bgcolor=LightGrey>--</td></tr>
+<tr CLASS= TableIOPinSectionRow><td CLASS= TableIOColumnPin>PD0</td><td>Input</td><td>Pull High</td><td>--</td><td>--</td></tr>
+<tr CLASS= TableIOPinSectionRow><td  CLASS= TableIOColumnPin; bgcolor=LightGrey>PD1</td><td bgcolor=LightGrey>Output</td><td bgcolor=LightGrey>--</td><td bgcolor=LightGrey>Low</td><td bgcolor=LightGrey>Normal</td></tr>
+<tr CLASS= TableIOPinSectionRow><td CLASS= TableIOColumnPin>PD2</td><td>Output</td><td>--</td><td>Low</td><td>Normal</td></tr>
+		</table>
+    		<br/><br/>
+		<FONT CLASS = TextTableHead >*Comments:</FONT>	
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>						 
+    		<br/><br/>
+		<table width= 640px;>
+		    <tr>
+		    <td class=TextNote>*Note:</td>
+		    <td class=TextNoteContent>If there is a copyright infringement of sound content or program algorithm while manufacturing this device by Nyquest Technology Co., Ltd., the customer/client shall assume all responsibilities and liabilities.</FONT></td>
+		    </tr>
+		</table>
+	</body>
+</html>

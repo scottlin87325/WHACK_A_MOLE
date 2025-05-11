@@ -1,0 +1,26 @@
+IC type = 5AA340X
+Clock :8M Hz
+IR_TX :38KHz/Low
+OSC Mode :Internal RC
+Voice Decoder :SoftWare
+Encoding Algorithm :AM5A Codec
+Encoding Bit/Sample :4.375 M
+Voice Output :PWM
+OSC Trimming Voltage :3.0v
+Audio Filter :Disable
+PRA0 :I/O(Normal ... Low)
+PRA1 :I/O(Normal ... Low)
+PRA2 :I/O(Normal ... Low)
+PRA3 :I/O(Normal ... Low)
+PRB0 :I/O(Normal ... Low)
+PRB1 :I/O(Normal ... Low)
+PRB2 :I/O(Normal ... Low)
+PRB3 :I/O(Normal ... Low)
+PRC0 :I/O(Normal ... High)
+PRC1 :I/O(Normal ... High)
+PRC2 :I/O(Normal ... High)
+PRC3 :I/O(Normal ... High)
+PRD0 :I/O(Normal ... High)
+PRD1 :I/O(Normal ... High)
+PRD2 :I/O(Normal ... High)
+PRD3 :I/O(Normal ... High)
